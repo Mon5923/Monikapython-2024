@@ -1,0 +1,6 @@
+number=input("Enter a number")
+if number==number[::-1]:
+  print("palindrome")
+else:
+  print("not palindrome")Enter a numbermom
+palindrome
