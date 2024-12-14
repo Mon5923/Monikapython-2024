@@ -1,0 +1,2 @@
+with open("","rb")as file:
+  data=file.read()
